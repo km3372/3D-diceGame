@@ -42,7 +42,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
 //        node.geometry = sphere
 //
 //        sceneView.scene.rootNode.addChildNode(node)
-        
+//        
         sceneView.autoenablesDefaultLighting = true
         
 
